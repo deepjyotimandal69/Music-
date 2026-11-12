@@ -1,0 +1,6 @@
+{
+  "name": "My AI Music Studio",
+  "description": "Personal AI Music Generator inspired by Suno AI. Generate complete songs with AI vocals, background music, melodies, and custom lyrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
